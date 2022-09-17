@@ -47,10 +47,10 @@ global.owner = ['94759156388']
 global.ownertag = '94759156388' //ur tag number
 global.botnumber = '94759156388' //Add your Bot Number For Log
 global.botname = 'nano gaming' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.ig = "https://youtube.com/channel/UCNl4Cv_XBLnmRUmMATrRl4A" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/channel/UCNl4Cv_XBLnmRUmMATrRl4A" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.linkz = 'https://youtube.com/channel/UCNl4Cv_XBLnmRUmMATrRl4A'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "nano gaming bot" //ur sticker watermark packname
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94759156388'] //ADD YOU NUMBER
+global'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
